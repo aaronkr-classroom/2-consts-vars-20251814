@@ -18,5 +18,25 @@
     <ClCompile Include="greeting.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="calc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calc_main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="nums.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calc_money.h">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment_money.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="calc.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
